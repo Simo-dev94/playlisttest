@@ -2,16 +2,10 @@
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0 tvg-name="Russia today News" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:0 tvg-name="Russia today UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT UK
-https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8
 #EXTINF:0 group-title="Documentary" tvg-name="RT Documentary" tvg-language="English" tvg-country="RU" tvg-logo="https://i.imgur.com/6iJiWUe.png",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="US" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="News",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 tvg-name="OAN TV" tvg-language="English" tvg-country="US" tvg-id="OAN-TV" tvg-logo="https://i.imgur.com/Ng862Ib.png" group-title="News",OAN - One America News Network
-https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
-#EXTINF:0 tvg-name="The First" tvg-language="English" tvg-country="US" tvg-id="The-First" tvg-logo="https://i.imgur.com/mjAQDmb.png" group-title="News",The First
-https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:0 tvg-name="Americas Voice" tvg-language="English" tvg-country="US" tvg-id="americasvoice" tvg-logo="https://i.imgur.com/rTPUi6D.jpg" group-title="News",Americas Voice
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-name="Newsy" tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-id="newsy" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (1080p)
