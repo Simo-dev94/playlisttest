@@ -1,7 +1,7 @@
 #EXTINF:0 tvg-name="Test 1" tvg-country="RU" tvg-language="French" tvg-logo="https://steemitimages.com/1280x0/https://teorico.net/images/test-dgt-1.png" group-title="News",RT France
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:0 tvg-name="Russia today News" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:0 tvg-name="Russia today News" tvg-country="RU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Test2-Icon.png" group-title="News",RT News
+https://data.playground.edgeone.ai/resource/video/m3u8/demo-1.m3u8?key=1720425221-0-0-127f85767dc16f7fbb9e2d4a329567cb
 #EXTINF:0 group-title="Documentary" tvg-name="RT Documentary" tvg-language="English" tvg-country="RU" tvg-logo="https://i.imgur.com/6iJiWUe.png",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="US" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="News",Newsmax TV
