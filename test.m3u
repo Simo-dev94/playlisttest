@@ -1,14 +1,1 @@
-#EXTINF:0 tvg-name="Test 1" tvg-country="RU" tvg-language="French" tvg-logo="https://steemitimages.com/1280x0/https://teorico.net/images/test-dgt-1.png" group-title="News",RT France
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:0 tvg-name="Russia today News" tvg-country="RU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Test2-Icon.png" group-title="News",RT News
-https://data.playground.edgeone.ai/resource/video/m3u8/demo-1.m3u8?key=1720425221-0-0-127f85767dc16f7fbb9e2d4a329567cb
-#EXTINF:0 group-title="Documentary" tvg-name="RT Documentary" tvg-language="English" tvg-country="RU" tvg-logo="https://i.imgur.com/6iJiWUe.png",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="US" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="News",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 tvg-name="Americas Voice" tvg-language="English" tvg-country="US" tvg-id="americasvoice" tvg-logo="https://i.imgur.com/rTPUi6D.jpg" group-title="News",Americas Voice
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 tvg-name="Newsy" tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-id="newsy" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (1080p)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:0 tvg-name="Free Speech TV" tvg-language="English" tvg-country="US" tvg-id="Free-Speech-TV" tvg-logo="https://i.imgur.com/GrnjdxT.png" group-title="News",Free Speech TV
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
